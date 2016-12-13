@@ -1,5 +1,5 @@
 ---
-title: "[译] [PJA] 《JavaScript 应用程序设计》总目录"
+title: "[译] 《JavaScript 应用程序设计》总目录"
 issue: "#1"
 ---
 

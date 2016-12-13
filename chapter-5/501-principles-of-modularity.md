@@ -1,4 +1,4 @@
-# [译] [PJA] [501] 模块化的原则
+# [译] [501] 模块化的原则
 
 ## Principles of Modularity
 

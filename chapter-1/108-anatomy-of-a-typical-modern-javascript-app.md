@@ -1,4 +1,4 @@
-# [译] [PJA] [108] 解构一个典型的现代 JavaScript 应用
+# [译] [108] 解构一个典型的现代 JavaScript 应用
 
 ## Anatomy of a Typical Modern JavaScript App
 

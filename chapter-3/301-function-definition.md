@@ -1,4 +1,4 @@
-# [译] [PJA] [301] 函数定义
+# [译] [301] 函数定义
 
 ## Function Definition
 

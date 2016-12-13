@@ -6,7 +6,7 @@
 
 这是一本 O'Reilly 的免费试读电子书，于 2013 年 2 月发布 [在线预览版](http://chimera.labs.oreilly.com/books/1234000000262/index.html)。英文原版已于 2014 年 6 月出版（[点此购买电子版](http://shop.oreilly.com/product/0636920033141.do)），中国大陆未引进。
 
-本书全名《Programming JavaScript Applications: Robust Web Architecture With Node, HTML5, and Modern JS Libraries》，暂译作《JavaScript 应用程序设计：基于 Node、HTML5 及主流 JS 类库构建网络应用》，本项目使用其缩写 `[PJA]` 作为代号。
+本书全名《Programming JavaScript Applications: Robust Web Architecture With Node, HTML5, and Modern JS Libraries》，暂译作《JavaScript 应用程序设计：基于 Node、HTML5 及主流 JS 类库构建网络应用》。
 
 > **声明**：本书版权属于 O'Reilly 公司。本人参与翻译工作仅出于学习的目的。任何组织与个人不得在未获授权的情况下将本书原文与译文用于商业用途。
 
@@ -22,9 +22,11 @@
 
 > **警告**：译者已弃坑。
 
+
 ## 试读
 
 * [总目录](https://github.com/cssmagic/Programming-JavaScript-Applications/issues/1)
+
 
 ## 关于作者
 

@@ -1,4 +1,4 @@
-# [译] [PJA] [401] 类继承已经过时了
+# [译] [401] 类继承已经过时了
 
 ## Classical Inheritance is Obsolete
 

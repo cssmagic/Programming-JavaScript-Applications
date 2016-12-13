@@ -1,4 +1,4 @@
-# [译] [PJA] [600] 国际化工程
+# [译] [600] 国际化工程
 
 ## Internationalization
 

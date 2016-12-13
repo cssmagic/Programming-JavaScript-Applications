@@ -1,4 +1,4 @@
-# [译] [PJA] [600] 第六章 关注点分离
+# [译] [600] 第六章 关注点分离
 
 # Chapter 6. Separation of Concerns
 

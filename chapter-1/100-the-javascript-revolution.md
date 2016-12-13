@@ -1,4 +1,4 @@
-# [译] [PJA] [100] 第一章 JavaScript 革命
+# [译] [100] 第一章 JavaScript 革命
 
 # Chapter 1. The JavaScript Revolution
 

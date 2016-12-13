@@ -1,4 +1,4 @@
-# [译] [PJA] [402] 语流风格的 JavaScript
+# [译] [402] 语流风格的 JavaScript
 
 ## Fluent Style JavaScript
 

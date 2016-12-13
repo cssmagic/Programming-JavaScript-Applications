@@ -1,4 +1,4 @@
-# [译] [PJA] [508] 基于 CommonJS、npm、Grunt 和 Browserify 构建客户端代码
+# [译] [508] 基于 CommonJS、npm、Grunt 和 Browserify 构建客户端代码
 
 ## Building Client-Side Code With CommonJS, npm, Grunt, and Browserify
 

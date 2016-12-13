@@ -1,4 +1,4 @@
-# [译] [PJA] [200] 第二章 JavaScript 代码风格指南
+# [译] [200] 第二章 JavaScript 代码风格指南
 
 # Chapter 2. JavaScript Style Guide
 

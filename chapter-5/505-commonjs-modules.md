@@ -1,4 +1,4 @@
-# [译] [PJA] [505] CommonJS 模块规范
+# [译] [505] CommonJS 模块规范
 
 ## CommonJS Modules
 

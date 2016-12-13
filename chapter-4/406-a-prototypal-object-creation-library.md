@@ -1,4 +1,4 @@
-# [译] [PJA] [406] 创建原型对象的类库
+# [译] [406] 创建原型对象的类库
 
 ## A Prototypal Object Creation Library
 

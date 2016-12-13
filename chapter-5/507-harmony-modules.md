@@ -1,4 +1,4 @@
-# [译] [PJA] [507] Harmony 的模块机制
+# [译] [507] Harmony 的模块机制
 
 ## Harmony Modules
 

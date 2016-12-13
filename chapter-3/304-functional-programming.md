@@ -1,4 +1,4 @@
-# [译] [PJA] [304] 函数式编程
+# [译] [304] 函数式编程
 
 ## Functional Programming
 

@@ -1,4 +1,4 @@
-# [译] [PJA] [305] 异步操作
+# [译] [305] 异步操作
 
 ## Asynchronous Operations
 
