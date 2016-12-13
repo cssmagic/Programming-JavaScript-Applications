@@ -1,16 +1,7 @@
-# [译] [PJA] 《JavaScript 应用程序设计》总目录
-
-![programming-javascript-applications-book-cover](https://f.cloud.github.com/assets/1231359/945961/f2d25566-0323-11e3-8498-4948059d5b87.png)
-
-## 译者按
-
-> 这是一本 O'Reilly 的新书，于 2013 年 2 月发布 [在线预览版](http://chimera.labs.oreilly.com/books/1234000000262/index.html)，目前还未正式出版（预计英文原版纸质书的出版日期为 2013-11-22）。
->
-> 本书全名《Programming JavaScript Applications: Robust Web Architecture With Node, HTML5, and Modern JS Libraries》，暂译作《JavaScript 应用程序设计：基于 Node、HTML5 及主流 JS 类库构建网络应用》，本博客使用其缩写 `[PJA]` 作为代号。
->
-> **声明**：本书版权属于 O'Reilly 公司。本人参与翻译工作仅出于学习的目的。任何组织与个人不得在未获授权的情况下将本书原文与译文用于商业用途。
->
-> **警告**：这本书目前并非最终版本，只是作者提供的原始书稿，还未经润色与审校。因此书中可能存在错漏或不严谨的内容，请合理使用。另外，译者的专业水平和精力均十分有限，仅供参考，后果自负。
+---
+title: "[译] [PJA] 《JavaScript 应用程序设计》总目录"
+issue: "#1"
+---
 
 ## 目录
 
@@ -18,6 +9,7 @@
 > * 当任一章节翻译完成后，会在下面的目录中加链接。
 
 ### Preface
+### 序言
 
 * Conventions Used in This Book
 * Using Code Examples
@@ -28,7 +20,7 @@
 * Who this Book is Not For
 * About the Author
 
-### 序言
+<!-- -->
 
 * 本书所使用的约定
 * 使用示例代码
@@ -40,6 +32,7 @@
 * 关于作者
 
 ### Chapter 1\. The JavaScript Revolution
+### [第一章 JavaScript 革命](https://github.com/cssmagic/blog/issues/18)
 
 * Performance
 * Objects
@@ -54,7 +47,7 @@
 	* NoSQL Datastores
 	* RESTful JSON Web Services
 
-### [第一章 JavaScript 革命](https://github.com/cssmagic/blog/issues/18)
+<!-- -->
 
 * [性能](https://github.com/cssmagic/blog/issues/19)
 * 对象
@@ -70,13 +63,14 @@
 	* REST 风格的 JSON 网页接口
 
 ### Chapter 2\. JavaScript Style Guide
+### 第二章 JavaScript 代码风格指南
 
 * Example Tests
 	* QUnit Primer
 * Code Quality
 	* Best Practices Quick Reference
 
-### 第二章 JavaScript 代码风格指南
+<!-- -->
 
 * 测试示例
 	* QUnit 入门
@@ -84,6 +78,7 @@
 	* 最佳实践的快速参考
 
 ### Chapter 3\. Functions
+### 第三章 函数
 
 * Function Definition
 	* Named Function Expressions
@@ -105,7 +100,7 @@
 	* Callbacks
 	* Promises and Deferreds
 
-### 第三章 函数
+<!-- -->
 
 * 函数定义
 	* 具名函数表达式
@@ -128,6 +123,7 @@
 	* 许诺机制与延迟执行
 
 ### Chapter 4\. Objects
+### 第四章 对象
 
 * Classical Inheritance is Obsolete
 * Fluent Style JavaScript
@@ -141,7 +137,7 @@
 	* Object Creation
 	* Factory Creation
 
-### 第四章 对象
+<!-- -->
 
 * [类继承已经过时了](https://github.com/cssmagic/blog/issues/25)
 * 语流风格的 JavaScript
@@ -156,6 +152,7 @@
 	* 工厂创建法
 
 ### Chapter 5\. Modules
+### [第五章 模块](https://github.com/cssmagic/blog/issues/30)
 
 * Principles of Modularity
 * Interfaces
@@ -169,7 +166,7 @@
 * Building Client-Side Code With CommonJS, npm, Grunt, and Browserify
 	* Defining the App
 
-### [第五章 模块](https://github.com/cssmagic/blog/issues/30)
+<!-- -->
 
 * [模块化的原则](https://github.com/cssmagic/blog/issues/31)
 * [接口](https://github.com/cssmagic/blog/issues/32)
@@ -184,6 +181,7 @@
 	* [定义你的应用](https://github.com/cssmagic/blog/issues/39)
 
 ### Chapter 6\. Separation of Concerns
+### [第六章 关注点分离](https://github.com/cssmagic/blog/issues/43)
 
 * Client Side Concerns
 	* Module Management
@@ -195,7 +193,7 @@
 * Internationalization
 	* Locale Determination
 
-### [第六章 关注点分离](https://github.com/cssmagic/blog/issues/43)
+<!-- -->
 
 * 客户端的关注点
 	* 模块管理
@@ -206,23 +204,3 @@
 	* 从 Node 和 Express 开始入手
 * 国际化工程
 	* 地域探测
-
-## 关于作者
-
-![Eric Elliott](https://f.cloud.github.com/assets/1231359/802924/cbee2336-eddd-11e2-8f47-97c0315a6276.jpg)
-
-### Eric Elliott
-
-Eric Elliott is a veteran of JavaScript application development. His roles include JavaScript Lead at Tout (social video), Senior JavaScript Rockstar at BandPage (an industry leading music app), head of client side architecture at Zumba Fitness (the leading global fitness brand), several years as a UX and viral application consultant, and author of h5Validate, an HTML5 form validation plugin for jQuery. You can find Eric online on his blog at [ericleads.com](http://ericleads.com/).
-
-### 埃瑞克·埃利奥特
-
-埃瑞克·埃利奥特是一名 JavaScript 应用开发高手。他的身份数不胜数：
-
-* Tout（一家视频分享网站）的 JavaScript 领头人
-* BandPage（一款业内领先的音乐应用）上的资深 JavaScript 大腕
-* Zumba Fitness（全球领先的健身品牌）的客户端架构领导者
-* 多年的用户体验与病毒营销领域的顾问
-* 以及 h5Validate（一款 HTML5 表单校验 jQuery 插件）的作者等等
-
-你可以在他的博客 [ericleads.com](http://ericleads.com/) 找到他。
